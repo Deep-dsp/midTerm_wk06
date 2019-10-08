@@ -1,4 +1,4 @@
-![CAT VS DIGS](cvd.jpg "Image of cat and dog")
+![CAT VS DIGS](images/cvd.jpg "Image of cat and dog")
 
 # Who is the best, cats or dogs ??
 
