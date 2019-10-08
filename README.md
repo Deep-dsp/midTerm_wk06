@@ -1,2 +1,6 @@
-# midTerm_wk06
-Dogs are better than cats.
+# 
+# Do you think Dogs are better than cats?
+
+## Help us to decide
+
+
