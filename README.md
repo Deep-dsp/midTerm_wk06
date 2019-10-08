@@ -1,6 +1,6 @@
 ![CAT VS DIGS](cvd.jpg "Image of cat and dog")
 
-# Who is the best, cats or dogs ?
+# Who is the best, cats or dogs ??
 
 ## Getting started
 
