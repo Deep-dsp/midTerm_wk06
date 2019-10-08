@@ -1,1 +1,1 @@
-The cats are the best pets of the world
+Dogs are better than cats.
